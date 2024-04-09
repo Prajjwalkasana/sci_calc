@@ -1,0 +1,23 @@
+.screen{
+    width: auto;
+    height: auto;
+    border: none;
+    padding: 15px;
+    border-radius:15px ;
+    background-color: #fafafa;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.4)
+
+}
+input{
+    width: 750px;
+    height: 55px;
+    border: none;
+    background-color: #fcf9f9;
+    font-size: 20px;
+    font-weight: bold;
+}
+p{
+    height: 27px;
+    font-size: 25px;
+    font-weight: bolder;
+}

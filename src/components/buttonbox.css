@@ -1,0 +1,16 @@
+.btnbox{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap:15px;
+    padding: 18px;
+}
+.numpad{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap:20px;
+}
+.operator{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap:10px
+}
